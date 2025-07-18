@@ -1,4 +1,2 @@
-# University-Capstone-Projects-Management
-PES University Capstone Projects Management made using MySQL and Streamlit
-This project was developed by a team of two for the course - DBMS
-Screenshots of the Project Working are available in the `Project Report.pdf`
+# Capstone-Projects-Management-system
+The Capstone Projects Management System is a comprehensive web-based application developed to simplify and digitize the end-to-end process of managing capstone projects within academic institutions. It is designed to enhance coordination among students, faculty, and administrators by providing a centralized platform for project registration, evaluation, monitoring, and documentation. The system enables students to submit project proposals, track progress, and receive timely feedback, while faculty members can efficiently review submissions, assign evaluations, and guide students throughout the project lifecycle. Administrators benefit from streamlined oversight of all ongoing projects, user management, and secure data handling. Built using Python, Streamlit, and MySQL, the system ensures a user-friendly interface, robust backend functionality, and reliable data storage. Role-based authentication and secure password hashing further strengthen system integrity, making the platform both functional and secure for institutional use.
